@@ -5,7 +5,6 @@
 ## Codage
 
 * [Introduction au codage](codage/introduction-au-codage.md)
-* [Page 2](codage/page-2.md)
 
 ## Group 1
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-## Bienvenue sur Compagnon
+## Introduction
 
 * [Bonjour ! Hey! Hej! 👋](README.md)
 

@@ -1,6 +1,6 @@
 ---
 description: Mis à jour le 6 avril 2026
-icon: align-justify
+icon: calendar-check
 ---
 
 # Conditions d'utilisation et d'information

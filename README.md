@@ -1,5 +1,6 @@
 ---
 description: Bienvenue dans la documentation de Compagnon !
+icon: hand
 layout:
   width: default
   title:

@@ -1,5 +1,6 @@
 ---
 description: Démarrons tranquillement avec les introductions au codage
+icon: '1'
 ---
 
 # Introduction au codage

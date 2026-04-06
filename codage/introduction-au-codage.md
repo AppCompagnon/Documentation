@@ -1,6 +1,8 @@
 ---
 description: Démarrons tranquillement avec les introductions au codage
 icon: '1'
+tags:
+  - page-a-jour
 ---
 
 # Introduction au codage

@@ -1,10 +1,13 @@
 # Table of contents
 
+## Bienvenue sur Compagnon
+
 * [Bonjour ! Hey! Hej! 👋](README.md)
 
 ## Codage
 
 * [Introduction au codage](codage/introduction-au-codage.md)
+* [Construction générale](codage/construction-generale.md)
 
 ## Légal
 

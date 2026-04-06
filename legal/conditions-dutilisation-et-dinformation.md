@@ -1,6 +1,8 @@
 ---
 description: Mis à jour le 6 avril 2026
 icon: calendar-check
+tags:
+  - page-legale
 ---
 
 # Conditions d'utilisation et d'information

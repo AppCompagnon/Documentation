@@ -7,6 +7,12 @@ icon: user-gear
 
 # Modification des données de compte
 
+{% hint style="info" %}
+## Information
+
+Vous pouvez retrouver plus d'informations sur [cette page](../droits/politique-de-vie-privee.md#id-2.1.-droits-de-modification-des-donnees).
+{% endhint %}
+
 ### Modifier son nom d'utilisateur
 
 Pour modifier son nom d'utilisateur **de Compagnon**, vous pouvez vous rendre dans la page **Compte** de Compagnon (accessible en cliquant en haut à droite). Pour modifier son nom d'utilisateur de son ENT, rendez-vous auprès du gestionnaire de votre établissement, ou regarder sur votre ENT.

@@ -1,8 +1,8 @@
 ---
-description: Bienvenue dans la documentation de Compagnon !
-icon: '0'
+description: Besoin d'aide, besoin de ressources, besoin d'informations ? Tout est ici !
+icon: hand
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
@@ -10,32 +10,19 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
+    visible: true
+  actions:
     visible: true
 ---
 
-# Bonjour ! Hey! Hej! 👋
+# Bienvenue sur la page d'aide !
 
-## Utilité de cette documentation
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4><strong>Je souhaite savoir coder</strong></h4></td><td align="center"><a href="https://app.gitbook.com/s/qKnT1QYw7j7hg0t0M4N8/codage/introduction-au-codage#cloner-compagnon">Compiler/copier Compagnon</a></td><td align="center"><a href="https://app.gitbook.com/s/qKnT1QYw7j7hg0t0M4N8/codage/construction-generale">Connaître la structure de Compagnon</a></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><h4><strong>Je souhaite savoir designer</strong></h4></td><td align="center"><a href="https://app.gitbook.com/s/qKnT1QYw7j7hg0t0M4N8/interface-utilisateur">En connaître plus</a></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><h4><strong>Voir les mises à jour</strong></h4></td><td align="center"><a href="https://app.gitbook.com/s/U60wy3xz4RYDYz6kISLV/#version-4.0.3">Version 4.0.3</a></td><td align="center"><a href="https://app.gitbook.com/s/U60wy3xz4RYDYz6kISLV/#version-4.0.2">Version 4.0.2</a></td><td align="center"><a href="https://app.gitbook.com/s/U60wy3xz4RYDYz6kISLV/#version-4.0.1">Version 4.0.1</a></td><td align="center"><a href="https://app.gitbook.com/s/U60wy3xz4RYDYz6kISLV/#version-4">Version 4.0.0</a></td></tr></tbody></table>
 
-Cette documentation va vous servir pour créer sa propre version de Compagnon.
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Le codage</td></tr><tr><td>L'UI (User Interface)</td></tr></tbody></table>
-
-{% tabs %}
-{% tab title="Le codage" %}
-Commençons avec l'introduction au codage de Compagnon.
-
-Accède au début de la documentation ici : [https://compagnon-2.gitbook.io/compagnon-docs/codage/introduction-au-codage](https://compagnon-2.gitbook.io/compagnon-docs/codage/introduction-au-codage)
-{% endtab %}
-
-{% tab title="L'UI" %}
-
-{% endtab %}
-{% endtabs %}
-
+À gauche, tu pourras retrouver des ressources utiles pour en connaître plus !

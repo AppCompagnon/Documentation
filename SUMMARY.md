@@ -2,24 +2,17 @@
 
 ## Introduction
 
-* [Bienvenue sur la page d'aide !](README.md)
+* [Bonjour ! Hey! Hej! 👋](README.md)
 
-## Compagnon IA <a href="#ia" id="ia"></a>
+## Codage
 
-* [Fonctionnement de CompagnonIA](ia/fonctionnement-de-compagnonia.md)
+* [Introduction au codage](codage/introduction-au-codage.md)
+* [Construction générale](codage/construction-generale.md)
 
-## Fonctionnement
+## Interface utilisateur
 
-* [Limites des coefficients](fonctionnement/limites-des-coefficients.md)
-* [Modification des données de compte](fonctionnement/modification-des-donnees-de-compte.md)
-* [Ajout des notifications](fonctionnement/ajout-des-notifications.md)
+* [Introduction à l'interface utilisateur](interface-utilisateur/introduction-a-linterface-utilisateur.md)
 
-## Messagerie
+## Légal
 
-* [Utilisation de la messagerie](messagerie/utilisation-de-la-messagerie.md)
-* [Fonctionnement de la messagerie](messagerie/fonctionnement-de-la-messagerie.md)
-
-## Droits
-
-* [Conditions d'utilisation](droits/conditions-dutilisation.md)
-* [Politique de vie privée](droits/politique-de-vie-privee.md)
+* [Conditions d'utilisation et d'information](legal/conditions-dutilisation-et-dinformation.md)
